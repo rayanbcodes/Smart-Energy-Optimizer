@@ -1,0 +1,2192 @@
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+Date,Hour,Device,Usage_KWh,Cost_per_KWh
+2025-08-01,0,Refrigerator,0.12,0.15
+2025-08-01,0,Air Conditioner,1.5,0.20
+2025-08-01,0,Lights,0.3,0.18
+2025-08-01,1,Refrigerator,0.12,0.15
+2025-08-01,1,Air Conditioner,1.2,0.20
+2025-08-01,1,Lights,0.2,0.18
+2025-08-01,2,Refrigerator,0.12,0.15
+2025-08-01,2,Air Conditioner,1.0,0.20
+2025-08-01,2,Lights,0.2,0.18
+2025-08-01,3,Refrigerator,0.12,0.15
+2025-08-01,3,Air Conditioner,0.8,0.20
+2025-08-01,3,Lights,0.2,0.18
+2025-08-01,4,Refrigerator,0.12,0.15
+2025-08-01,4,Air Conditioner,0.8,0.20
+2025-08-01,4,Lights,0.2,0.18
+2025-08-01,5,Refrigerator,0.12,0.15
+2025-08-01,5,Air Conditioner,0.9,0.20
+2025-08-01,5,Lights,0.2,0.18
+2025-08-01,6,Refrigerator,0.12,0.15
+2025-08-01,6,Air Conditioner,1.2,0.20
+2025-08-01,6,Lights,0.3,0.18
+2025-08-01,7,Refrigerator,0.12,0.15
+2025-08-01,7,Air Conditioner,1.5,0.20
+2025-08-01,7,Lights,0.3,0.18
+2025-08-01,8,Refrigerator,0.12,0.15
+2025-08-01,8,Air Conditioner,1.3,0.20
+2025-08-01,8,Lights,0.3,0.18
+2025-08-01,9,Refrigerator,0.12,0.15
+2025-08-01,9,Air Conditioner,1.2,0.20
+2025-08-01,9,Lights,0.3,0.18
+2025-08-01,10,Refrigerator,0.12,0.15
+2025-08-01,10,Air Conditioner,1.1,0.20
+2025-08-01,10,Lights,0.3,0.18
+2025-08-01,11,Refrigerator,0.12,0.15
+2025-08-01,11,Air Conditioner,1.0,0.20
+2025-08-01,11,Lights,0.2,0.18
+2025-08-01,12,Refrigerator,0.12,0.15
+2025-08-01,12,Air Conditioner,1.2,0.20
+2025-08-01,12,Lights,0.3,0.18
+2025-08-01,13,Refrigerator,0.12,0.15
+2025-08-01,13,Air Conditioner,1.3,0.20
+2025-08-01,13,Lights,0.3,0.18
+2025-08-01,14,Refrigerator,0.12,0.15
+2025-08-01,14,Air Conditioner,1.4,0.20
+2025-08-01,14,Lights,0.3,0.18
+2025-08-01,15,Refrigerator,0.12,0.15
+2025-08-01,15,Air Conditioner,1.5,0.20
+2025-08-01,15,Lights,0.3,0.18
+2025-08-01,16,Refrigerator,0.12,0.15
+2025-08-01,16,Air Conditioner,1.3,0.20
+2025-08-01,16,Lights,0.3,0.18
+2025-08-01,17,Refrigerator,0.12,0.15
+2025-08-01,17,Air Conditioner,1.2,0.20
+2025-08-01,17,Lights,0.2,0.18
+2025-08-01,18,Refrigerator,0.12,0.15
+2025-08-01,18,Air Conditioner,1.6,0.20
+2025-08-01,18,Lights,0.3,0.18
+2025-08-01,19,Refrigerator,0.12,0.15
+2025-08-01,19,Air Conditioner,1.8,0.20
+2025-08-01,19,Lights,0.3,0.18
+2025-08-01,20,Refrigerator,0.12,0.15
+2025-08-01,20,Air Conditioner,1.4,0.20
+2025-08-01,20,Lights,0.3,0.18
+2025-08-01,21,Refrigerator,0.12,0.15
+2025-08-01,21,Air Conditioner,1.0,0.20
+2025-08-01,21,Lights,0.2,0.18
+2025-08-01,22,Refrigerator,0.12,0.15
+2025-08-01,22,Air Conditioner,0.9,0.20
+2025-08-01,22,Lights,0.2,0.18
+2025-08-01,23,Refrigerator,0.12,0.15
+2025-08-01,23,Air Conditioner,1.2,0.20
+2025-08-01,23,Lights,0.3,0.18
+
+

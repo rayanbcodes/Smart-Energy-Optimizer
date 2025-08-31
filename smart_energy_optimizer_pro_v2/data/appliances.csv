@@ -1,0 +1,6 @@
+Name,Power_kW,Duration_Hours,Flexible,Earliest_Start,Latest_End
+Dishwasher,1.2,1,1,20,23
+Washing Machine,0.8,1,1,6,10
+Dryer,1.5,1,1,7,12
+Air Conditioner,2.5,8,0,0,23
+Refrigerator,0.2,24,0,0,23
